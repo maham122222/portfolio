@@ -1,0 +1,141 @@
+.personalityheading{
+    text-align: center;
+}
+
+.abdul{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    position: relative;
+    top: 2em;
+}
+.abdul img{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 31em;
+    border-radius: 1em;
+}
+.abdul p{
+    text-align: center;
+    margin: 2em;
+}
+
+.imran{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid black; */
+    position: relative;
+    top: 2em;
+}
+.imran img{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 31em;
+    border-radius: 1em;
+}
+.imran p{
+    text-align: center;
+    margin: 2em;
+}
+
+.ali{
+    display: flex;
+    flex-direction: column;
+    /* border:2px solid black; */
+   position: relative;
+    top: 2em;
+}
+.ali img{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 31em;
+    border-radius: 1em;
+}
+.ali p{
+    text-align: center;
+    margin: 2em;
+}
+
+.iqbal{
+    display: flex;
+    flex-direction: column;
+    /* border:2px solid black; */
+    position: relative;
+    top: 2em;
+}
+.iqbal img{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 31em;
+    border-radius: 1em;
+}
+.iqbal p{
+    text-align: center;
+    margin: 2em;
+}
+
+.blackbox{
+    border: 2px solid black;
+    height: 20em;
+    background-color: black;
+    position: relative;
+    top: 6em;
+    
+}
+.full{
+    position: relative;
+    top: 6em;
+    height: 10em;
+    /* border: 2px solid white; */
+    display: flex;
+    flex-direction: row;
+}
+.firsthalf h3{
+    color: white;
+    position: relative;
+    left: 1em;
+}
+.paragh{
+    height: 7em;
+    width: 18em;
+    position: relative;
+    left: 2em;
+    color: antiquewhite;
+    font-size: small;
+    /* border: 2px solid white; */
+}
+.secondhalf h3{
+    position: relative;
+    left: 20em;
+    color: white;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid white; */
+    position: relative;
+    width: 15em;
+    /* height: 10em; */
+    left: 35.3em;
+    display: inline;
+}
+.linkedin{
+    width: 2em;
+}
+.instagram{
+    width: 2em;
+   
+}
+.youtube{
+    width: 2em;
+  
+}
+.twitter{
+    width: 2em;
+    
+   
+}

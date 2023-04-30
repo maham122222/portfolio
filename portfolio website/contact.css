@@ -1,0 +1,82 @@
+.mb-3 input {
+    background-color: rgb(167, 121, 139);
+    width: 70%;
+    position: relative;
+    left: 2em;
+}
+.mb-3 textarea {
+    width: 70%;
+    position: relative;
+    left: 2em;
+    background-color: rgb(167, 121, 139);
+}
+.button{
+    background-color: rgb(167, 121, 139) ;
+    border: 2px solid rgb(168, 100, 134);
+    border-radius: 2em;
+    width: 7em;
+    position: relative;
+    left: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.blackbox{
+    border: 2px solid black;
+    height: 20em;
+    background-color: black;
+    position: relative;
+    top: 6em;
+    
+}
+.full{
+    position: relative;
+    top: 6em;
+    height: 10em;
+    /* border: 2px solid white; */
+    display: flex;
+    flex-direction: row;
+}
+.firsthalf h3{
+    color: white;
+    position: relative;
+    left: 1em;
+}
+.paragh{
+    height: 7em;
+    width: 18em;
+    position: relative;
+    left: 2em;
+    color: antiquewhite;
+    font-size: small;
+    /* border: 2px solid white; */
+}
+.secondhalf h3{
+    position: relative;
+    left: 20em;
+    color: white;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid white; */
+    position: relative;
+    width: 15em;
+    /* height: 10em; */
+    left: 35.3em;
+    display: inline;
+}
+.linkedin{
+    width: 2em;
+}
+.instagram{
+    width: 2em;
+   
+}
+.youtube{
+    width: 2em;
+  
+}
+.twitter{
+    width: 2em;
+    
+   
+}

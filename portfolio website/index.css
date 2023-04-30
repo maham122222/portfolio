@@ -1,0 +1,328 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.backgroundpic {
+    background: linear-gradient(rgba(0, 1, 4, 0.5), rgba(0, 1, 0, 0.8)), url(img/w4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+
+    height: 40em;
+    overflow-x: hidden;
+
+}
+/* .container-fluid{
+    overflow: hidden;
+    background-color: #666666;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+
+} */
+
+
+.name{
+    position: relative;
+    left: 15em;
+    top: 2em;
+    color: rgb(255, 255, 255);
+}
+.student{
+    position: relative;
+    left: 12em;
+    top: 2em;
+    /* font-size: 3em; */
+    color:rgb(255, 255, 255);
+    /* color: rgb(242, 114, 135); */
+}
+.mypic{
+    width: 18em;
+    position: relative;
+    top: 8em;
+    left: 31em;
+    /* height: 30em; */
+    border-radius: 100em;
+    border: 4px solid rgb(255, 255, 255);
+}
+/* about */
+.aboutme{
+    position: relative;
+    text-align: center;
+    /* top: 8em; */
+}
+.aboutme1{
+    position: relative;
+    top: 6em;
+}
+.about0 hr{
+
+        border: 2px;
+        border-bottom: 4px solid rgb(173, 11, 78);
+        color: rgb(147, 13, 55);
+        border-style: solid ;
+        position: relative;
+        /* top: 19em; */
+        left: 38em;
+    
+}
+
+.about1{
+    text-align: center;
+    position: relative;
+    /* top: 16em; */
+}
+.about2{
+    text-align: center;
+    position: relative;
+    /* top: 17em; */
+}
+.about-content-main{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 10em;
+    left: 2em;
+    /* border: 2px solid black; */
+    height: 30em;
+    
+}
+
+.about-content-detail-para{
+    width: 27em;
+    /* height: 20em; */
+}
+.title-para{
+    width: 50em;
+    /* text-align: center; */
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill1{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(255, 255, 255);
+    width: 20em;
+    height: 17em;
+    position: relative;
+    top: 4em;
+    right: 12em;
+}
+.p1{
+    position: relative;
+    left: 1em;
+    font-size: larger;
+}
+.p2{
+    position: relative;
+    left: 2em;
+    font-size: larger;
+}
+.p3{
+    position: relative;
+    left: 3em;
+    font-size: larger;
+}
+.p4{
+    position: relative;
+    left: 4em;
+    font-size: larger;
+}
+
+.p5{
+    position: relative;
+    left: 1em;
+    font-size: larger;
+}
+.p6{
+    position: relative;
+    left: 2em;
+    font-size: larger;
+}
+.p7{
+    position: relative;
+    left: 3em;
+    font-size: larger;
+}
+.p8{
+    position: relative;
+    left: 1em;
+    font-size: larger;
+}
+
+.p9{
+    position: relative;
+    left: 2em;
+    font-size: larger;
+}
+.p10{
+    position: relative;
+    left: 3em;
+    font-size: larger;
+}
+.p11{
+    position: relative;
+    left: 4em;
+    font-size: larger;
+}
+
+.p12{
+    position: relative;
+    left: 1em;
+    font-size: larger;
+}
+.p13{
+    position: relative;
+    left: 2em;
+    font-size: larger;
+}
+.p14{
+    position: relative;
+    left: 3em;
+    font-size: larger;
+}
+.p15{
+    position: relative;
+    left: 4em;
+    font-size: larger;
+}
+
+.skill1-0{
+    display: flex;
+    flex-direction: row;
+}
+.skill1-1{
+    display: flex;
+    flex-direction: row;
+}
+.skill1-2{
+    display: flex;
+    flex-direction: row;
+}
+.skill1-3{
+    display: flex;
+    flex-direction: row;
+}
+.interest{
+    /* border: 2px solid black; */
+    position: relative;
+    top: 13em;
+    text-align: center;
+}
+
+
+
+
+/* cards */
+.cards{
+    position: relative;
+    top: 16em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid black; */
+    
+}
+.card1{
+    position: relative;
+    /* top: 25em; */
+    right: 2em;
+    /* left: 1em; */
+}
+.card1 img{
+    height:12em ;
+}
+
+.card2{
+    position: relative;
+    /* top: 25em; */
+    /* left: 1em; */
+}
+
+.card3{
+    position: relative;
+    /* top: 25em; */
+    left: 1em;
+}
+.card3 img{
+    height: 12em; 
+}
+.card4{
+    position: relative;
+    /* top: 25em; */
+    left: 2em;
+}
+.card4 img{
+    height: 12em; 
+}
+
+/* last box */
+
+.blackbox{
+    border: 2px solid black;
+    height: 20em;
+    background-color: black;
+    position: relative;
+    top: 20em;
+    
+}
+.full{
+    position: relative;
+    top: 6em;
+    height: 10em;
+    /* border: 2px solid white; */
+    display: flex;
+    flex-direction: row;
+}
+.firsthalf h3{
+    color: white;
+    position: relative;
+    left: 1em;
+}
+.paragh{
+    height: 7em;
+    width: 18em;
+    position: relative;
+    left: 2em;
+    color: antiquewhite;
+    font-size: small;
+    /* border: 2px solid white; */
+}
+.secondhalf h3{
+    position: relative;
+    left: 20em;
+    color: white;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid white; */
+    position: relative;
+    width: 15em;
+    /* height: 10em; */
+    left: 35.3em;
+    display: inline;
+}
+.linkedin{
+    width: 2em;
+}
+.instagram{
+    width: 2em;
+   
+}
+.youtube{
+    width: 2em;
+  
+}
+.twitter{
+    width: 2em;
+    
+   
+}
+
